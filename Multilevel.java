@@ -11,8 +11,8 @@ public void show () { System.out.println ("Welcome");
                   }  
   
 public static void main (String args[]) {  
-A7 obj = new A7();  
+A7 obj = new A7 ();  
 obj.print ();  
 obj.show ();  
- }  
+  }  
 }  
